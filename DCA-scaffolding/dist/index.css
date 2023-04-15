@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+app-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.categoriesSection{
+    display: flex;
+    flex-direction: row;
+}
